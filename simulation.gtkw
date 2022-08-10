@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Fri Aug  5 14:27:28 2022
+[*]
+[dumpfile] "/mnt/c/Users/naray/Downloads/keerthan/ring_counter.vcd"
+[dumpfile_mtime] "Fri Aug  5 14:24:21 2022"
+[dumpfile_size] 237666304
+[savefile] "/mnt/c/Users/naray/Downloads/keerthan/simulation.gtkw"
+[timestart] 0
+[size] 1908 987
+[pos] -834 -137
+*-15.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 214
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 288
+@28
+tb_ring.Clock
+@22
+tb_ring.Count_out[3:0]
+@28
+tb_ring.Reset
+[pattern_trace] 1
+[pattern_trace] 0
