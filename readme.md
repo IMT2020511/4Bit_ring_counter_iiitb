@@ -86,6 +86,10 @@ GLS is generating the simulation output by running test bench with netlist file 
 Below picture gives an insight of the procedure. Here while using iverilog, you also include gate level verilog models to generate GLS simulation.
 
 
+<p align="center">
+  <img src="Screenshot from 2022-08-18 14-51-34.png">
+</p>
+
 ![Graphical user interface
 
 Description automatically generated](Aspose.Words.3eb76f11-017a-40a6-aad5-f577ce09f0ae.005.png)
