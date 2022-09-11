@@ -97,6 +97,12 @@ Below picture gives an insight of the procedure. Here while using iverilog, you 
 
 
 
+<p align="center">
+  <img  src="image2.png">
+ </p>
+
+
+
 
 **ACKNOWLEDGMENTS**
 
