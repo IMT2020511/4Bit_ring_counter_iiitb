@@ -198,7 +198,8 @@ $ sudo apt-get install ngspice
 
 
 **PRE SYNTHESIS**
-To clone the repository, download the netlist files and simulate the results, Enter the following commands in your terminal:
+
+-To clone the repository, download the netlist files and simulate the results, Enter the following commands in your terminal:
 
  $ git clone https://github.com/DantuNandiniDevi/iiitb_freqdiv 
 
