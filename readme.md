@@ -72,6 +72,11 @@ $ sudo make install
 
 $ make test
 
+<p align="center">
+  <img  src="Screenshot from 2022-08-18 14-53-46.png">
+ </p>
+
+
 ![Diagram
 
 Description automatically generated](Aspose.Words.3eb76f11-017a-40a6-aad5-f577ce09f0ae.003.png)
