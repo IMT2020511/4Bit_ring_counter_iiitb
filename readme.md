@@ -7,8 +7,8 @@ This project simulates the design of a 4-bit ring counter using verilog HDL. A r
 **BLOCK DIAGRAM**
 
 <p align="center">
-<img src="![image](https://user-images.githubusercontent.com/79004223/189527545-b3fe4a54-1b8d-4adc-a21a-2803e2380207.png)">
-</p>
+  <img  src="image1.png">
+ </p>
 
 
 The above figure is the block diagram of a 4-bit ring counter. The figure shows four D flip flop connected with a clock and an ORI signal. The design uses an active high ORI signal which sets the first flip flop to '1' and the other three flip flops to '0' when ORI is high. The circuit uses a positive edge triggered clock.
