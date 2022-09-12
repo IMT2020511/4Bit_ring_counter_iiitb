@@ -77,13 +77,13 @@ $ sudo make install
 $ make test
 
 <p align="center">
-  <img  src="pictures/Screenshot from 2022-08-18 14-53-46(1).png">
+  <img  src="pictures/Screenshot from 2022-08-18 14-53-46 (1).png">
  </p>
  
  
  
 <p align="center">
-  <img  src="pictures/Screenshot from 2022-08-18 14-54-50(1).png">
+  <img  src="pictures/Screenshot from 2022-08-18 14-54-50 (1).png">
  </p>
 
 
@@ -96,7 +96,7 @@ Below picture gives an insight of the procedure. Here while using iverilog, you 
 
 
 <p align="center">
-  <img src="pictures/Screenshot from 2022-08-18 14-51-34(1).png">
+  <img src="pictures/Screenshot from 2022-08-18 14-51-34 (1).png">
 </p>
 
 
