@@ -19,7 +19,11 @@ The counter is set to an initial state of *'1000'* by the ORI signal. In the n
 
 **RTL SIMULATION**
 
-![](Aspose.Words.3eb76f11-017a-40a6-aad5-f577ce09f0ae.002.jpeg)
+
+<p align="center">
+  <img  src="pictures/simulation.jpeg">
+ </p>
+
 
 In the above waveform, ORI signal sets the counter to '1000' and then the counter runs in a loop with three states until ORI is high again.
 
@@ -73,13 +77,13 @@ $ sudo make install
 $ make test
 
 <p align="center">
-  <img  src="Screenshot from 2022-08-18 14-53-46.png">
+  <img  src="pictures/Screenshot from 2022-08-18 14-53-46.png">
  </p>
  
  
  
 <p align="center">
-  <img  src="Screenshot from 2022-08-18 14-54-50.png">
+  <img  src="pictures/Screenshot from 2022-08-18 14-54-50.png">
  </p>
 
 
@@ -92,13 +96,13 @@ Below picture gives an insight of the procedure. Here while using iverilog, you 
 
 
 <p align="center">
-  <img src="Screenshot from 2022-08-18 14-51-34.png">
+  <img src="pictures/Screenshot from 2022-08-18 14-51-34.png">
 </p>
 
 
 
 <p align="center">
-  <img  src="image2.png">
+  <img  src="pictures/image2.png">
  </p>
 
 
@@ -210,15 +214,6 @@ $ sudo apt-get install ngspice
  $ ./iiitb_freqdiv_out.out
  
  $ gtkwave iiitb_freqdiv_vcd.vcd
-
-
-
-
-
-
-<p align="center">
-  <img  src="simulation.jpeg">
- </p>
 
 
 **ACKNOWLEDGMENTS**
