@@ -217,7 +217,7 @@ $ sudo apt-get install ngspice
 
 
 <p align="center">
-  <img  src="simulation.png">
+  <img  src="Simulation.png">
  </p>
 
 
