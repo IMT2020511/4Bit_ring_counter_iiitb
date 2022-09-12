@@ -253,6 +253,11 @@ $  cp ./libs/sky130A.tech sky130A.tech
 $ magic -T sky130A.tech sky130_inv.mag &
 
 
+<p align="center">
+  <img  src="pictures/magic cell.png">
+ </p>
+
+
 
 **ACKNOWLEDGMENTS**
 
