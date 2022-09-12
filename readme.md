@@ -258,6 +258,18 @@ $ magic -T sky130A.tech sky130_inv.mag &
  </p>
 
 
+The above layout will open. The design can be verified and various layers can be seen and examined by selecting the area of examination and type what in the tcl window.
+
+To extract Spice netlist, Type the following commands in tcl window.
+
+% extract all
+
+% ext2spice cthresh 0 rthresh 0
+
+% ext2spice
+
+(cthresh 0 rthresh 0 is used to extract parasitic capacitances from the cell.)
+
 
 **ACKNOWLEDGMENTS**
 
