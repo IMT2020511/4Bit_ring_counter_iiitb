@@ -212,6 +212,15 @@ $ sudo apt-get install ngspice
  $ gtkwave iiitb_freqdiv_vcd.vcd
 
 
+
+
+
+
+<p align="center">
+  <img  src="simulation.png">
+ </p>
+
+
 **ACKNOWLEDGMENTS**
 
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
