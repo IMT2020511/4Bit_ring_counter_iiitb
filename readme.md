@@ -271,6 +271,12 @@ To extract Spice netlist, Type the following commands in tcl window.
 (cthresh 0 rthresh 0 is used to extract parasitic capacitances from the cell.)
 
 
+
+<p align="center">
+  <img  src="pictures/spice.png">
+ </p>
+
+
 **ACKNOWLEDGMENTS**
 
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
