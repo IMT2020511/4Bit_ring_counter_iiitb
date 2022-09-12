@@ -216,6 +216,32 @@ $ sudo apt-get install ngspice
  $ gtkwave iiitb_freqdiv_vcd.vcd
 
 
+**POST SYNTHESIS"
+-$ yosys
+
+yosys> read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+yosys> read_verilog iiitb_freqdiv.v
+
+yosys> synth -top iiitb_freqdiv
+
+yosys> dfflibmap -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+yosys> abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+yosys> stat
+
+yosys> show
+
+yosys> write_verilog iiitb_freqdiv_netlist.v
+
+$ iverilog -DFUNCTIONAL -DUNIT_DELAY=#1 ../verilog_model/primitives.v ../verilog_model/sky130_fd_sc_hd.v iiitb_freqdiv_netlist.v iiitb_freqdiv_tb.v
+
+$ ./a.out
+
+$ gtkwave iiitb_freqdiv_vcd.vcd
+
+
 **ACKNOWLEDGMENTS**
 
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
