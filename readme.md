@@ -216,7 +216,7 @@ $ sudo apt-get install ngspice
  $ gtkwave iiitb_freqdiv_vcd.vcd
 
 
-**POST SYNTHESIS"
+**POST SYNTHESIS**
 
 $ yosys
 
