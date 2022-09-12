@@ -7,7 +7,7 @@ This project simulates the design of a 4-bit ring counter using verilog HDL. A r
 **BLOCK DIAGRAM**
 
 <p align="center">
-  <img  src="image1.png">
+  <img  src="pictures/image1.png">
  </p>
 
 
