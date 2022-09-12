@@ -243,6 +243,17 @@ $ ./a.out
 $ gtkwave iiitb_freqdiv_vcd.vcd
 
 
+** CREATING CUSTOM INVERTER CELL**
+$ git clone https://github.com/nickson-jose/vsdstdcelldesign.git
+
+$ cd vsdstdcelldesign
+
+$  cp ./libs/sky130A.tech sky130A.tech
+
+$ magic -T sky130A.tech sky130_inv.mag &
+
+
+
 **ACKNOWLEDGMENTS**
 
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
