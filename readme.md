@@ -294,6 +294,12 @@ $ ngspice sky130_inv.spice
 
 
 
+<p align="center">
+  <img  src="pictures/plot.png">
+ </p>
+ 
+
+
 
 **ACKNOWLEDGMENTS**
 
