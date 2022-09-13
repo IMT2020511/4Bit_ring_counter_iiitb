@@ -1,4 +1,4 @@
-**4Bit\_ring\_counter\_iiitb**
+**IIITB_RINGCOUNTER**
 
 **INTRODUCTION**
 
