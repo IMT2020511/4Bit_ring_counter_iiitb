@@ -276,6 +276,11 @@ To extract Spice netlist, Type the following commands in tcl window.
   <img  src="pictures/spice.png">
  </p>
 
+Open the terminal in the directory where ngspice is stored and type the following command, ngspice console will open:
+
+$ ngspice sky130_inv.spice 
+
+
 
 **ACKNOWLEDGMENTS**
 
