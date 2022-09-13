@@ -1,0 +1,16 @@
+
+10. Printing statistics.
+
+=== iiitb_ringcounter ===
+
+   Number of wires:                  3
+   Number of wire bits:              6
+   Number of public wires:           3
+   Number of public wire bits:       6
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  4
+     $_SDFF_PP0_                     3
+     $_SDFF_PP1_                     1
+

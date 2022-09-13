@@ -1,0 +1,35 @@
+digraph "iiitb_ringcounter" {
+label="iiitb_ringcounter";
+rankdir="LR";
+remincross=true;
+n4 [ shape=diamond, label="a", color="black", fontcolor="black" ];
+n5 [ shape=octagon, label="q", color="black", fontcolor="black" ];
+n6 [ shape=octagon, label="reset", color="black", fontcolor="black" ];
+n7 [ shape=octagon, label="clkin", color="black", fontcolor="black" ];
+v0 [ label="1" ];
+c11 [ shape=record, label="{{<p8> A|<p9> B}|$2\n$shl|{<p10> Y}}" ];
+x2 [ shape=record, style=rounded, label="<s0> 3:3 - 0:0 " ];
+x3 [ shape=record, style=rounded, label="<s0> 3:1 - 2:0 " ];
+x4 [ shape=record, style=rounded, label="<s0> 0:0 - 0:0 " ];
+x5 [ shape=record, style=rounded, label="<s0> 2:0 - 3:1 " ];
+p1 [shape=box, style=rounded, label="PROC $1\n/openlane/designs/iiitb_ringcounter/src/iiitb_ringcounter.v:9.5-17.12"];
+x6 [shape=box, style=rounded, label="BUF"];
+c11:p10:e -> x3:s0:w [color="black", style="setlinewidth(3)", label=""];
+n2 [ shape=point ];
+p1:e -> n2:w [color="black", style="setlinewidth(3)", label=""];
+x4:s0:e -> n2:w [color="black", style="setlinewidth(3)", label=""];
+x5:s0:e -> n2:w [color="black", style="setlinewidth(3)", label=""];
+n2:e -> p1:w [color="black", style="setlinewidth(3)", label=""];
+p1:e -> n4:w [color="black", style="setlinewidth(3)", label=""];
+n4:e -> c11:p8:w [color="black", style="setlinewidth(3)", label=""];
+n4:e -> x2:s0:w [color="black", style="setlinewidth(3)", label=""];
+n4:e -> x6:w:w [color="black", style="setlinewidth(3)", label=""];
+x6:e:e -> n5:w [color="black", style="setlinewidth(3)", label=""];
+n6:e -> p1:w [color="black", label=""];
+n7:e -> p1:w [color="black", label=""];
+v0:e -> c11:p9:w [color="black", style="setlinewidth(3)", label=""];
+x2:e -> p1:w [color="black", label=""];
+x3:e -> p1:w [color="black", style="setlinewidth(3)", label=""];
+p1:e -> x4:w [color="black", label=""];
+p1:e -> x5:w [color="black", style="setlinewidth(3)", label=""];
+}

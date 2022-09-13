@@ -1,0 +1,8 @@
+
+23. Executing CHECK pass (checking for obvious problems).
+Checking module iiitb_ringcounter...
+Warning: Wire iiitb_ringcounter.\q [3] is used but has no driver.
+Warning: Wire iiitb_ringcounter.\q [2] is used but has no driver.
+Warning: Wire iiitb_ringcounter.\q [1] is used but has no driver.
+Warning: Wire iiitb_ringcounter.\q [0] is used but has no driver.
+Found and reported 4 problems.
