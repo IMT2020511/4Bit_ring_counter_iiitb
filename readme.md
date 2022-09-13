@@ -282,6 +282,13 @@ $ ngspice sky130_inv.spice
 
 
 
+<p align="center">
+  <img  src="pictures/ngspice.png">
+ </p>
+
+
+
+
 **ACKNOWLEDGMENTS**
 
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
