@@ -285,6 +285,12 @@ $ ngspice sky130_inv.spice
 <p align="center">
   <img  src="pictures/ngspice.png">
  </p>
+ 
+ 
+ Now you can plot the graphs for the designed inverter model.
+
+-> plot y vs time a
+
 
 
 
