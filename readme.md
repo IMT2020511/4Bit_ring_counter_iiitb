@@ -332,13 +332,6 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
 
 
 **Results**
-All the results are in run folder,synthesis,placement,floor,routing reports are present.
-The following codes for running are
-run_synthesis
-run_floor
-run_placement
-run_cts
-run_routing
 
 <p align="center">
   <img  src="pictures/placement_k.png">
@@ -347,6 +340,30 @@ run_routing
 <p align="center">
   <img  src="pictures/routing_k.png">
  </p>
+ 
+ 
+ 
+ **REPORTS**
+
+
+<p align="center">
+  <img  src="pictures/WhatsApp Image 2022-09-15 at 11.35.19.jpeg">
+ </p>
+ 
+ 
+ <p align="center">
+  <img  src="pictures/WhatsApp Image 2022-09-15 at 11.35.43.jpeg">
+ </p>
+ 
+ 
+ <p align="center">
+  <img  src="pictures/WhatsApp Image 2022-09-15 at 11.36.00.jpeg">
+ </p>
+ 
+ <p align="center">
+  <img  src="pictures/WhatsApp Image 2022-09-15 at 11.37.12.jpeg">
+ </p>
+ 
 
 
 
