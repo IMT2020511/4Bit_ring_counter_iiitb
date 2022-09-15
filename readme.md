@@ -365,7 +365,7 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
  </p>
  
 
-
+**NOTE- There was no usage of inverter cell in the design**
 
 **ACKNOWLEDGMENTS**
 
@@ -373,8 +373,9 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
 
 **CONTRIBUTORS**
 
-- Sirigiri Sai Keerthan, IMtech IIIT Bangalore
+- Sirigiri Sai Keerthan, IMtech IIIT Bangalore.
 - Kunal Ghosh Director, VSD Corp.Pvt.Ltd.
+- Dantu Nandini Devi,Mtech IIIT bangalore.
 
 **CONTACT**
 
