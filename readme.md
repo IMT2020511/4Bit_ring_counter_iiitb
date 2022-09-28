@@ -433,7 +433,7 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
   <img  src="pictures/keerthan.png">
  </p>
 
-This is the performance from reg to reg i.e from flipflop 2 to flipflop 3.
+This is the performance from reg to reg i.e from flipflop 16 to flipflop 17.
 Performance = 1/(clock period - slack) 
            = 1/(10.00 - 9.04)ns 
            = 1.04 Ghz 
