@@ -414,7 +414,18 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
  <p align="center">
   <img  src="pictures/area.jpeg">
  </p>
-
+ 
+ 
+ **FLIP-FLOP TO STANDARD CELL RATIO-1/3**
+ 
+ <p align="center">
+  <img  src="pictures/printing statistics.jpeg">
+ </p>
+ 
+ **POWER-8.11x10^-5 Watts**
+<p align="center">
+  <img  src="pictures/power.jpeg">
+ </p>
 
 
 
