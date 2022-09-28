@@ -402,10 +402,17 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
 
 **MIDTERM EXAMINATION**
 
-**POST SYNTHESIS GATE COUNT**
+**POST SYNTHESIS GATE COUNT-12** 
 
 <p align="center">
   <img  src="pictures/printing statistics.jpeg">
+ </p>
+ 
+ 
+ **AREA-1347.041**
+ 
+ <p align="center">
+  <img  src="pictures/area.jpeg">
  </p>
 
 
