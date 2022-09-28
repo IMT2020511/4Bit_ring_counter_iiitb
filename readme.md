@@ -430,7 +430,7 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
 
 **PERFOMANCE**
 <p align="center">
-  <img  src="pictures/keerthan.jpeg">
+  <img  src="pictures/keerthan.png">
  </p>
 
 
