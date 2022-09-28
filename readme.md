@@ -405,7 +405,7 @@ Copy sky130_fd_sc_hd__fast.lib, sky130_fd_sc_hd__slow.lib, sky130_fd_sc_hd__typi
 **POST SYNTHESIS GATE COUNT**
 
 <p align="center">
-  <img  src="pictures/printing statastics.jpeg">
+  <img  src="pictures/printing statistics.jpeg">
  </p>
 
 
